@@ -1,5 +1,7 @@
 <p align="center" style="border-radius:100%"><img height="auto" width="20%"  src="/assets/" ></p>
 
+#Desenvolvedor Web Full Stack
+
 <div>
   <h1 align="center">Olá! Tudo bem? 😃️</h1>
   <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/marcusviniciusabdalla/"><i>Marcus Vinícius Abdalla</i></a> e eu formei em Desenvolvimento Web na <a href="https://www.digitalhouse.com/br"><i>Digital House</i></a>. 😃️
@@ -35,7 +37,7 @@
 <div align="center">
   <a href="https://www.youtube.com/channel/UCcNx_NrNGmyG4o4uqYbPRCQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/marcusviniciusabdalla/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/edududuribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/marcusviniciusabdalla/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:marcusviniciusabdalladev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <div align="center">
