@@ -1,4 +1,4 @@
-<p align="center" style="border-radius:100%"><img height="auto" width="20%"  src="/assets/" ></p>
+<p align="center" style="border-radius:100%"><img height="auto" width="20%"  src="src/assets/Marcus Vinicius.jpeg" ></p>
 
 
   <h1 align="center">Desenvolvedor Web Full Stack </h1>
