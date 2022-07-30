@@ -1,5 +1,6 @@
 <p align="center" style="border-radius:100%"><img height="auto" width="20%"  src="src/assets/Marcus Vinicius.jpeg" ></p>
 
+<a href="https://github.com/marcusviniciusabdalla">
 
   <h1 align="center">Desenvolvedor Web Full Stack </h1>
 
@@ -43,7 +44,7 @@
 </div>
 <div align="center">
   
-  ![Snake animation](https://github.com/MarcusViniciusAbdalla/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MarcusViniciusAbdalla/marcusviniciusabdalla/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 <div align="center">
