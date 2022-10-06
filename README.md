@@ -8,7 +8,7 @@
   <h1 align="center">Olá! Tudo bem? 😃️</h1>
   <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/marcusviniciusabdalla/"><i>Marcus Vinícius Abdalla</i></a> e eu formei em Desenvolvimento Web Full Stack na <a href="https://www.digitalhouse.com/br"><i>Digital House</i></a>. 😃️
   <p align="center"> Sou apaixonado por tecnologia e gosto de compartilhar meu aprendizado no meu canal do <a href="https://www.linkedin.com/in/marcusviniciusabdalla/"><i>Linkedin</i></a><span> 👉🏽️</span>
-  <h1 align="center">Junte-se a mim e vamos codar juntos<a href="https://www.linkedin.com/in/marcusviniciusabdalla"><i>Entre em contato no meu LinkedIn</i></a> 😃️</h1>
+  <h1 align="center">Junte-se a mim e vamos codar juntos , entre em contato no meu  <a href="https://www.linkedin.com/in/marcusviniciusabdalla"><i>LinkedIn</i></a> 😃️</h1>
   <p align="center">As principais tecnologias abordadadas na <a href="https://www.digitalhouse.com/br"><i>Digital House</i></a> foram, ReactJs , NodeJs, Figma, Express, EJS, HTML , CSS, Javascript, Git e Github, Sequelize, Banco de dados MySQL , SCRUM e APIrest. Quer saber mais sobre mim? Acesse meu <a href="https://www.linkedin.com/in/marcusviniciusabdalla/"><i>Linkedin</i></a><span> 👉🏽️</span>
   <br>
   <p align="center">Já me segue aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
