@@ -1,51 +1,18 @@
-<p align="center" style="border-radius:100%"><img height="auto" width="20%"  src="src/assets/FotoColorida.png" ></p>
+# 💫 About Me:
+Meu nome é Marcus Vinícius Abdalla e eu formei em Desenvolvimento Web Full Stack na Digital House. Sou estudante de Análise e Desenvolvimento de Sistemas 😃️<br>Sou apaixonado por tecnologia e gosto de compartilhar meu aprendizado no meu canal do Linkedin 👉🏽️<br><br>Junte-se a mim e vamos codar juntos , entre em contato no meu LinkedIn 😃️<br>As principais tecnologias que tenho conhecimento, NodeJs, Figma, Express, EJS, HTML , CSS, Javascript, Git e Github, Sequelize, Banco de dados MySQL , SCRUM e APIrest. Atualmente estou Desnvolvendo novo projeto com Javascript e Oracle.   <br>Snake animation<br><br>Feito com ❤️ e JavaScript.
 
-<a href="https://github.com/marcusviniciusabdalla">
 
-  <h1 align="center">Desenvolvedor Web Full Stack </h1>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcusviniciusabdalla)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marcusviniciusabdalla@gmail.com) 
 
-<div>
-  <h1 align="center">Olá! Tudo bem? 😃️</h1>
-  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/marcusviniciusabdalla/"><i>Marcus Vinícius Abdalla</i></a> e eu formei em Desenvolvimento Web Full Stack na <a href="https://www.digitalhouse.com/br"><i>Digital House</i></a>. 😃️
-  <p align="center"> Sou apaixonado por tecnologia e gosto de compartilhar meu aprendizado no meu canal do <a href="https://www.linkedin.com/in/marcusviniciusabdalla/"><i>Linkedin</i></a><span> 👉🏽️</span>
-  <h1 align="center">Junte-se a mim e vamos codar juntos , entre em contato no meu  <a href="https://www.linkedin.com/in/marcusviniciusabdalla"><i>LinkedIn</i></a> 😃️</h1>
-  <p align="center">As principais tecnologias abordadadas na <a href="https://www.digitalhouse.com/br"><i>Digital House</i></a> foram, ReactJs , NodeJs, Figma, Express, EJS, HTML , CSS, Javascript, Git e Github, Sequelize, Banco de dados MySQL , SCRUM e APIrest. Quer saber mais sobre mim? Acesse meu <a href="https://www.linkedin.com/in/marcusviniciusabdalla/"><i>Linkedin</i></a><span> 👉🏽️</span>
-  <br>
-  <p align="center">Já me segue aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
-</div>
-<!-- <h1 align="center"> 
-  Digital House
-</h1>
-<p align="center"><i>"A Digital House é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
-<div align="center">
-  <a href="https://github.com/MarcusViniciusAbdalla">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcusViniciusAbdalla&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusViniciusAbdalla&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-<div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">  
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div><br>
-<div align="center">
-  <a href="https://www.youtube.com/channel/UCcNx_NrNGmyG4o4uqYbPRCQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/marcusviniciusabdalla/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcusviniciusabdalla/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:marcusviniciusabdalladev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-<div align="center">
-  
-  ![Snake animation](https://github.com/MarcusViniciusAbdalla/marcusviniciusabdalla/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-</div>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MarcusViniciusAbdalla&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MarcusViniciusAbdalla&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusViniciusAbdalla&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MarcusViniciusAbdalla&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
